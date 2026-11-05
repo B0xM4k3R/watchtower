@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Watchtower
 
 A passive network traffic analyzer written in Python. It sniffs DNS and TLS SNI traffic, extracts domain names, tracks device bandwidth, and flags suspicious trackers.
@@ -23,4 +23,4 @@ Then open **http://localhost:8081** in your browser.
 - **SNI Extraction:** Sees domain names even inside HTTPS traffic.
 - **Bandwidth Tracking:** Shows exactly how much data this specific device is uploading and downloading.
 - **Tracker Alerts:** Flags known ad and tracking domains.
-EOF
+
