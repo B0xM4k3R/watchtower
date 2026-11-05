@@ -19,10 +19,10 @@ Then open http://localhost:8081 in your browser.
 
 Features
 
-    Live Dashboard: Updates every 2 seconds.
+Live Dashboard: Updates every 2 seconds.
 
-    SNI Extraction: Sees domain names even inside HTTPS traffic.
+SNI Extraction: Sees domain names even inside HTTPS traffic.
 
-    Bandwidth Tracking: Shows exactly which local device is using the most data.
+Bandwidth Tracking: Shows exactly how much data this specific device is uploading and downloading.
 
-    Tracker Alerts: Flags known ad and tracking domains.
+Tracker Alerts: Flags known ad and tracking domains.
